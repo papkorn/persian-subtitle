@@ -9,6 +9,8 @@ For PapkornBot, we need to use Persian subtitles. However, there was not suffici
 
 All of the Subtitles are accessible through IMDB_ID info! You need to know IMDB_ID to get the appropiate subtitles.
 
+Main URL: https://api.pkdirectdl.xyz
+
 ### Get Movie Subtitle List
 
 **URL** : `/movie​/{imdb_id}​/subtitle/`
